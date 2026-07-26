@@ -10,4 +10,4 @@ El flujo considera:
 4. Validación del código recibido.
 5. Acceso permitido o rechazo del ingreso.
 
-![Diagrama de login y doble autenticación](diagrama-login-2fa.png)
+![Diagrama de login y doble autenticación](diagrama-login-2fa.png.png)
