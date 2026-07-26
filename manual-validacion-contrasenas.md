@@ -41,3 +41,10 @@ Durante la revisión del sistema se detectó que la aplicación permitía regist
 - password
 
 Este error representa un riesgo para la seguridad, porque facilita accesos no autorizados al sistema y puede permitir que un atacante adivine credenciales fácilmente.
+## Acción correctiva aplicada
+
+Para corregir el error, se establece que el sistema debe rechazar contraseñas débiles y aplicar reglas mínimas de seguridad.
+
+Una contraseña robusta debe cumplir con longitud mínima, uso de mayúsculas, minúsculas, números y caracteres especiales.
+
+Con esta corrección se reduce el riesgo de accesos no autorizados y se mejora la seguridad del proceso de autenticación.
